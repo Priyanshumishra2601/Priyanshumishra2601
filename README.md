@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 
 <img
   align="right"
-  width="400"
-  style="border-radius: 200px; box-shadow: 2px 4px 45px #303233"
+  width="300"
+  border-radius="200px" box-shadow="2px 4px 45px #303233"
   src="https://avatars.githubusercontent.com/u/116107882?v=4"
   alt="avtaar"
 />
