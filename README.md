@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **Priyanshumishra2601/Priyanshumishra2601** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
