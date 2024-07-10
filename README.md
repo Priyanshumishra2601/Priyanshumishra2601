@@ -9,7 +9,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=&size=40&center=true&vCenter=true&width=900&height=70&duration=4000&lines=Hi+There!+👋;+This+is+Pragya!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=&size=40&center=true&vCenter=true&width=900&height=70&duration=4000&lines=Hi+There!+👋;+This+is+Priyanshu Mishra!;" />
 </h1>
 
 <h3 align="center">An engineering student from India</h3>
