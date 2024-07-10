@@ -1,7 +1,7 @@
 
 ![Black Minimal Business Personal Profile Linkedin Banner](https://github.com/Priyanshumishra2601/Priyanshumishra2601/blob/main/banner%20.png)
 
-<div align="center">
+<div align="center" width="400">
     <img  src="https://github.com/Priyanshumishra2601/Priyanshumishra2601/blob/main/man-1835_512.gif" />
 </div>
 
