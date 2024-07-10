@@ -1,4 +1,4 @@
-![Black Minimal Business Personal Profile Linkedin Banner](https://github.com/priyanshumishra2601/priyanshumishra2601/assets/84717393/5217dcce-2d5f-4b76-941e-404b6f0ab529)
+![Black Minimal Business Personal Profile Linkedin Banner](https://github.com/Priyanshumishra2601/Priyanshumishra2601/blob/main/header.png)
 
 <div align="center">
     <img  src="https://github.com/priyanshumishra2601/priyanshumishra2601/assets/84717393/c1d42bc9-0bf0-48ad-8ab0-35da6daa5bed" />
@@ -9,7 +9,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=&size=40&center=true&vCenter=true&width=900&height=70&duration=4000&lines=Hi+There!+👋;+This+is+Priyanshu Mishra!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=&size=40&center=true&vCenter=true&width=900&height=70&duration=4000&lines=Hi+There!+👋;+This+is+Priyanshu!;" />
 </h1>
 
 <h3 align="center">An engineering student from India</h3>
